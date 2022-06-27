@@ -2,3 +2,5 @@ he is my first ever get repository
 
 adding the repository
 clear
+chinging the existing file
+cat demo.txt
